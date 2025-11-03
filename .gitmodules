@@ -1,0 +1,3 @@
+[submodule "adaptive-temperature-scaling"]
+	path = adaptive-temperature-scaling
+	url = https://github.com/tomalamb/adaptive-temperature-scaling.git
