@@ -179,7 +179,6 @@ sweep_results
 scratch
 results_old
 temp
-adaptive-temperature-scaling
 run_vi.py
 archive_results
 original_results
