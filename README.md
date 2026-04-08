@@ -6,7 +6,9 @@ Calibration is central to reliable semantic uncertainty quantification, yet prio
 
 ### Motivation 
 
-![Figure 1 placeholder](figures/pullfigure.png)
+<p align="center">
+  <img src="figures/pullfigure.png" alt="Figure 1 placeholder" width="50%">
+</p>
 
 **Temperature Scaling Improves Semantic Uncertainty Quantification.** We compare the same base model with different temperature parameters, each generating ten responses for the same input, and cluster responses into semantic groups. We compute the semantic confidence measure introdcued by Kuhn et al. (2023). Panel (a) uses the recommended temperature of 0.5. Panel (b) uses a temperature optimized on a calibration set. Optimised temperature scaling offers a simple way to improve both semantic calibration and discrimination.
 
